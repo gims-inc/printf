@@ -28,7 +28,7 @@ int print_octal(va_list);
 int print_hexadecimal_low(va_list);
 int _putchar(char);
 int buffer(char);
-
+int print_pointer(va_list);
 /**
  * struct _format - Typedef struct
  * @type: Format
