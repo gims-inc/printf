@@ -21,7 +21,9 @@ int percent_handler(const char *, va_list, int *);
 int print_string(va_list);
 int print_char(va_list);
 int print_integer(va_list);
-
+int print_binary(va_list);
+int print_unsigned(va_list);
+int print_hexadecimal_upp(va_list);
 
 int _putchar(char);
 int buffer(char);
