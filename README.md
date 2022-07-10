@@ -1,4 +1,7 @@
-# prinf
-This is a readme project on printf
+# printf
+---------------------
+This is a readme for the project on printf
 
-@gims-inc  @OGOLA_SOSPETER
+
+
+[@gims-inc](https://github.com/gims-inc/printf) & [@OGOLA_SOSPETER](https://github.com/OGOLA-SOSPETER)
