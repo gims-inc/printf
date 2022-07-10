@@ -20,6 +20,7 @@ int percent_handler(const char *, va_list, int *);
 /* printers */
 int print_string(va_list);
 int print_char(va_list);
+int print_integer(va_list);
 
 /* _putchar.c */
 int _putchar(char);
