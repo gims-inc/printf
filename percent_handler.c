@@ -15,6 +15,7 @@ int percent_handler(const char *str, va_list list, int *i)
 	format formats[] = {
 	{'s', print_string}, {'c', print_char},
 	{'d', print_integer}, {'i', print_integer},
+	{'b', print_binary}
 	};
 	*i = *i + 1;
 	if (str[*i] == '\0')
@@ -35,4 +36,5 @@ int percent_handler(const char *str, va_list list, int *i)
 	}
 	_putchar('%'), _putchar(str[*i]);
 	return (2);
+
 }
