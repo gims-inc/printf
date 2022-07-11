@@ -31,6 +31,7 @@ int _putchar(char);
 int buffer(char);
 int print_pointer(va_list);
 int print_rev_string(va_list);
+int print_rot(va_list);
 
 /**
  * struct _format - Typedef struct
