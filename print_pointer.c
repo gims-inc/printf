@@ -1,4 +1,6 @@
 #include "main.h"
+#include "string.h"
+
 /**
  *print_pointer - Print a number in hexadecimal format
  *@list: Number to print
