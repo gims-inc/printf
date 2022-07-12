@@ -5,7 +5,10 @@ It provides similar functionality to printf in C's starndard I/O library
 
 ## References
 [vprintf](https://cplusplus.com/reference/cstdio/vprintf/)
+
 [Parameters](https://cplusplus.com/reference/cstdio/fprintf/)
+
+[Man pages](https://liw.fi/manpages/)
 
 ## By:
 [@gims-inc](https://github.com/gims-inc) & [@OGOLA_SOSPETER](https://github.com/OGOLA-SOSPETER)
