@@ -66,10 +66,11 @@ To print the day of the year, where weekday and month are pointers to strings an
 
 #include "main.h"
 
-   printf ("Characters: %c %c \n", 'a', 65);
-   printf ("Decimals: %d %ld\n", 1977, 650000L);
-   printf ("Preceding with blanks: %10d \n", 2000);
-   printf ("Preceding with zeros: %010d \n", 1997);
+   _printf ("Characters: %c %c \n", 'a', 65);
+   _printf ("Decimals: %d %ld\n", 1977, 650000L);
+   _printf ("Preceding with blanks: %10d \n", 2000);
+   _printf ("Preceding with zeros: %010d \n", 1997);
+
 .SH SEE ALSO
 .I printf(3)
 .SH BUGS
